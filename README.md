@@ -22,7 +22,7 @@ Banks need to monitor loan applications, funding, repayment performance, and bor
 - Dataset: Financial Loan Dataset
 - Total Loan Applications: 38,576
 - Data Format: CSV
-- **Dataset File: ** [financial_loan.csv](./Dataset/financial_loan.csv)
+- **Dataset File: ** [📂 View Dataset (CSV)](./Dataset/financial_loan%20(1).csv)
 
 ## Tools & Technologies
 - Power BI
