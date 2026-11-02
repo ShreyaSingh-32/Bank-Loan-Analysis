@@ -137,7 +137,7 @@ Provides detailed loan-level information including:
 
 ## Project Files
 - `financial_loan.csv` – Dataset used for analysis.
-- `powerfinance.pbix` – Power BI dashboard file.
+- `Bankfinancialdashboard.pbix` – Power BI dashboard file.
 - `Screenshots/` – Dashboard screenshots.
 
 ## Conclusion
